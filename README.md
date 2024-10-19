@@ -2,7 +2,7 @@
 - 👀 I’m interested in rust
 - 🌱 I’m currently learning web dev+devops
 - 💞️ I’m looking to collaborate on ...
-- 📫 @abhinavs279 on twitter/X 
+- 📫 @abhinavs279 on twitter/X || abhinavsrivastav25098@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
