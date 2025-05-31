@@ -1,7 +1,7 @@
 - 👋 Hi, I’m abhinav srivastav
-- 👀 I’m interested in rust
-- 🌱 I’m currently learning web dev+devops
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning solidity 
+- 💞️ I’m looking to collaborate on small projects
 - 📫 @abhinavs279 on twitter/X || abhinavsrivastav25098@gmail.com
 - 😄 Pronouns: he/him
 
