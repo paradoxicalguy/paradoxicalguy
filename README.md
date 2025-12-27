@@ -1,8 +1,8 @@
 ## abhinav here;
 
-fafo’ing stuff w interest in OS, system architecture, embedded stuff and distributed systems.      
-my tech tongues are rust, arm64 asm and c,      
-i also write blogs.
+fafo’ing stuff w interest in OS and compiler.      
+my tech tongue is rust    
+i also write blogs sometimes.
 
 @abhinavs279 || https://rasmalai123.medium.com 
 
