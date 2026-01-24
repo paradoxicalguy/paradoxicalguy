@@ -1,6 +1,6 @@
 ## abhinav here;
 
-fafo’ing stuff w interest in OS and compiler.      
+intrigued by tech, interested in compilers.      
 my tech tongue is rust    
 i also write blogs sometimes.
 
